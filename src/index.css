@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: font1;
+  src: url('/fonts/Lato-Regular.ttf');
+}
+@font-face {
+  font-family: font2;
+  src: url('/fonts/Lato-Light.ttf');
+}
+@font-face {
+  font-family: font3;
+  src: url('/fonts/Lato-Thin.ttf');
+}
+
+body{
+  font-family: font1;
+  overflow-x: hidden;
+}
