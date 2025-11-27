@@ -39,7 +39,7 @@ const Navbar = () => {
                 <div><a href="https://github.com/abhinavkaushal101/"><FaGithub /></a></div>
             </div> */}
               <a className="inline-block bg-orange-500 text-white px-6 py-3 rounded-full shadow-md hover:bg-orange-800 transition" 
-          href="/Resume/Abhinav updated resume.pdf" download="Abhinav_Kaushal_Resume.pdf">Get Resume</a>
+          href="/Resume/Abhinav updated resume (2).pdf" download="Abhinav_Kaushal_Resume.pdf">Get Resume</a>
 
             <button
           onClick={() => setOpen(!open)}
