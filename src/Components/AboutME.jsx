@@ -4,9 +4,11 @@ const AboutME = () => {
   const certificates = [
       //   "/Certificates/certificate (3).jpeg",
       "/Certificates/ibm.jpeg",
-      "/Certificates/certificate.jpeg",
+      "/Certificates/ICT certificate.jpeg",
       "/Certificates/Certi.jpeg",
-
+      "/Certificates/Mr. Abhinav Kaushal.jpg",
+      "/Certificates/certificate.jpeg",
+      "/Certificates/certificate tata abhi.jpeg",
       "/Certificates/certificate (1).jpeg",
       "/Certificates/certificate (2).jpeg",
     // "/Certificates/data-analytics-essentials.png",
