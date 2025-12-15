@@ -1,10 +1,10 @@
 export default function Contact() {
   return (
-    <section className="bg-gray-50 flex py-16 px-6 md:px-12 lg:px-24">
-      <div className="bg-blue-300 h-full">
-        <img src="https://img.freepik.com/free-vector/flat-design-illustration-customer-support_23-2148887720.jpg?semt=ais_incoming&w=740&q=80" alt="" />
+    <section className="bg-gray-50 md:flex-row flex-col flex py-16 px-6 md:px-12 lg:px-24">
+      <div className="w-full items-center justify-center flex ">
+        <img className="" src="https://img.freepik.com/free-vector/flat-design-illustration-customer-support_23-2148887720.jpg?semt=ais_incoming&w=740&q=80" alt="" />
       </div>
-      <div className="max-w-4xl mx-auto">
+      <div className=" w-full items-center mx-auto">
         <h2 className="text-3xl md:text-4xl font-bold text-gray-800 text-center mb-8">
           Contact Me
         </h2>
