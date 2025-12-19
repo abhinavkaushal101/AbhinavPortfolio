@@ -1,4 +1,5 @@
 import React from "react";
+import {Link} from "react-router-dom";
 
 const AboutME = () => {
   const certificates = [
@@ -56,12 +57,11 @@ const AboutME = () => {
             learning something new in tech. My goal is to craft digital experiences
             that make an impact.
           </p>
-          <a
-            href="#contact"
+          <Link to="/contact"
             className="inline-block bg-orange-500 text-white px-6 py-3 rounded-full shadow-md hover:bg-orange-600 transition"
           >
             Contact Me
-          </a>
+          </Link>
          &nbsp;&nbsp;
           <a className="inline-block bg-gray-500 text-white px-6 py-3 rounded-full shadow-md hover:bg-gray-800 transition" 
           href="/Resume/abhinav.pdf" download="Abhinav_Kaushal_Resume.pdf">Get Resume</a>
